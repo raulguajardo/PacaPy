@@ -1,2 +1,2 @@
 # PacaPy
-Python implementation of Alpaca API
+Python implementation of Alpaca API wrapper.
